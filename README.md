@@ -13,6 +13,8 @@ In this assignment it is required to achieve this robot behaviour:
 - avoid touching the golden boxes
 - when the robot is close to a silver box, it should grab it, and move it behind itself
 
+The following pseudo-code describes the desired robot activity:
+
 ## Robot API features
 The API for controlling a simulated robot is designed to be as similar as possible to the SR API.
 
