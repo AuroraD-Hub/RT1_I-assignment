@@ -31,7 +31,7 @@ In this assignment it is required to achieve this robot behaviour:
 - avoid touching the golden boxes
 - when the robot is close to a silver box, it should grab it, and move it behind itself
 
-The following flowchart describes the desired robot activity:
+The following flowchart describes the desired robot activity: [flowchart_assignment](https://user-images.githubusercontent.com/72380912/141688581-6df7a6ab-8789-4c27-8e95-a260552658b0.png)
 
 Robot API
 ---------
